@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanrawool&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrawool" /> </p>
 
-- 🔭 I’m currently working on **[MyCourse](https://github.com/SumanRawool/Projects/tree/main/MyCourse)**
+- 🔭 I’m currently working on **[DevOps Project](https://github.com/SumanRawool/CICD_Java_gradle_application-main)**
 
 - 🌱 I’m currently learning **Django**
 
