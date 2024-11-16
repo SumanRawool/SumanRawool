@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanrawool&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrawool" /> </p>
 
-- 🔭 I’m currently working on **[DevOps Project](https://github.com/SumanRawool/CICD_Java_gradle_application-main)**
+- 🔭 I’m currently working on **[Fullstack Development Project](https://github.com/SumanRawool/RentWheels)**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **JAVA,Spring Boot,ASP.NET Core,ReactJS,MySQL**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **sumanrawool2@gmail.com**
 
