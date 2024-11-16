@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[Fullstack Development Project](https://github.com/SumanRawool/RentWheels)**
 
-- 🌱 I’m currently learning **JAVA,Spring Boot,ASP.NET Core,ReactJS,MySQL**
+- 🌱 I’m currently learning **JAVA, Spring Boot, ASP.NET Core, ReactJS, MySQL**
 
 - 💬 Ask me about **JAVA**
 
